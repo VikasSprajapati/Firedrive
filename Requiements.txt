@@ -1,0 +1,7 @@
+Firedirve- a web app where separate users can upload images by signin
+
+Requiements and packeges to run this app:
+	We need 4 packeges: firebase, react router, ant design react moment.
+	Run these command:
+		1. npm inatall react-router-dom@6 firebase
+		2. npm i antd moment
